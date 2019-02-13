@@ -1,0 +1,59 @@
+﻿2019-02-12T11:55:45.2428266-05:00;VSTestExecutionThread;Info;SpecFlow+Runner 1.8.5 execution started
+2019-02-12T11:55:45.3858007-05:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\michael.mittiga\AppData\Local\Temp\5\VisualStudioTestExplorerExtensions\SpecRun.Runner.1.8.5\tools\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-02-12T11:55:45.5788104-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-02-12T11:55:45.5807695-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\WorkMarket\WorkMarket\bin\Debug\WorkMarket.dll
+2019-02-12T11:55:45.5817705-05:00;VSTestExecutionThread;Info;Profile: WorkMarket
+2019-02-12T11:55:59.7007852-05:00;Thread#10;Info;starting test run
+2019-02-12T11:55:59.7137852-05:00;Thread#10;Info;Discovering target: Default
+2019-02-12T11:55:59.7147990-05:00;Thread#10;Info;Discovering tests from assembly: C:\WorkMarket\WorkMarket\bin\Debug\WorkMarket.dll
+Appdomain Disposed
+Test Suite Dump
+#0: WorkMarket/WorkMarket - 
+#1: Default - 
+#2: WorkMarket - 
+#3: RegQATests - 
+#5: RegTst_02 A user is not able to register more than once - TestAssembly:WorkMarket/Feature:RegQATests/Scenario:RegTst_02+A+user+is+not+able+to+register+more+than+once
+End: Test Suite Dump
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: testitem #5 from normal test queue 
+Thread#0:Scheduler: considering testitem #5 for thread 0
+Thread#0:TestItem#5:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#5:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#5:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #5 for thread 0
+Thread#0:Scheduler: Test #5 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread #0: creating new test thread executor for WorkMarket, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+Thread#0: Test #5/0 is started on thread #0
+Thread#0:T:-> Using app.config
+Thread#0:B:Given User is on registration page
+Thread#0:T:done: QATestsSteps.GivenUserIsOnRegistrationPage() (4.3s)
+Thread#0:B:And User registers as an individual account "Michael" "Mittiga" "mmittiga17@gmail.com" "Passw0rd123"
+Thread#0:T:done: QATestsSteps.GivenUserRegistersAsAnIndividualAccount("Michael", "Mittiga", "mmittiga17@gmail.com", "Passw0rd123") (23.6s)
+Thread#0:B:Then "The email address mmittiga17@gmail.com is already being used." should be displayed to the user
+Thread#0:T:done: QATestsSteps.ThenShouldBeDisplayedToTheUser("The email address...") (3.1s)
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: at the end of normal test queue
+Thread#0:Scheduler: enumerator for thread is at end
+Thread#0:Scheduler: No more tests for thread
+Thread#0: Test #5/0 is finished on thread #0 as Succeeded within 38.3809267 seconds
+Appdomain Disposed
+Thread#-1:Scheduler: get next test for thread -1
+Thread#:Scheduler: at the end of normal test queue
+Thread#-1:Scheduler: enumerator for thread is at end
+2019-02-12T11:56:38.5097244-05:00;Thread#10;Info;test run finished
+2019-02-12T11:56:38.5117237-05:00;Thread#10;Info;publishing test results
+2019-02-12T11:56:38.5277147-05:00;Thread#10;Info;test results published
+2019-02-12T11:56:38.5287186-05:00;Thread#10;Info;generating reports
+2019-02-12T11:56:38.5367257-05:00;Thread#10;Info;creating 1 report(s)
+2019-02-12T11:56:38.5377242-05:00;Thread#10;Info;generate Report ReportTemplate.cshtml
+2019-02-12T11:56:39.8837389-05:00;Thread#10;Info;reports generated
+Total: 1
+Succeeded: 1
+Ignored: 0
+Pending: 0
+Skipped: 0
+Failed: 0
+2019-02-12T11:56:39.8917344-05:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2019-02-12T11:56:39.8927353-05:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\WorkMarket\TestResults\WorkMarket_WorkMarket_2019-02-12T115545.html'
+2019-02-12T11:56:39.9047348-05:00;VSTestExecutionThread;Info;Log file: file:///C:\WorkMarket\TestResults\WorkMarket_WorkMarket_2019-02-12T115545.log

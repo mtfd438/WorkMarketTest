@@ -1,0 +1,59 @@
+﻿2019-02-12T18:49:42.1031745-05:00;VSTestExecutionThread;Info;SpecFlow+Runner 1.8.5 execution started
+2019-02-12T18:49:42.1461963-05:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\michael.mittiga\AppData\Local\Temp\5\VisualStudioTestExplorerExtensions\SpecRun.Runner.1.8.5\tools\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-02-12T18:49:42.2571689-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-02-12T18:49:42.2601687-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\WorkMarket\WorkMarket\bin\Debug\WorkMarket.dll
+2019-02-12T18:49:42.2611688-05:00;VSTestExecutionThread;Info;Profile: WorkMarket
+2019-02-12T18:49:48.3351827-05:00;Thread#11;Info;starting test run
+2019-02-12T18:49:48.3421792-05:00;Thread#11;Info;Discovering target: Default
+2019-02-12T18:49:48.3421792-05:00;Thread#11;Info;Discovering tests from assembly: C:\WorkMarket\WorkMarket\bin\Debug\WorkMarket.dll
+Appdomain Disposed
+Test Suite Dump
+#0: WorkMarket/WorkMarket - 
+#1: Default - 
+#2: WorkMarket - 
+#3: RegQATests - 
+#9: RegTst_06 User is able to review the Terms of Use Agreement - TestAssembly:WorkMarket/Feature:RegQATests/Scenario:RegTst_06+User+is+able+to+review+the+Terms+of+Use+Agreement
+End: Test Suite Dump
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: testitem #9 from normal test queue 
+Thread#0:Scheduler: considering testitem #9 for thread 0
+Thread#0:TestItem#9:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#9:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#9:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #9 for thread 0
+Thread#0:Scheduler: Test #9 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread #0: creating new test thread executor for WorkMarket, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+Thread#0: Test #9/0 is started on thread #0
+Thread#0:T:-> Using app.config
+Thread#0:B:Given User is on registration page
+Thread#0:T:done: QATestsSteps.GivenUserIsOnRegistrationPage() (4.4s)
+Thread#0:B:And User clicks the Privacy Statement
+Thread#0:T:done: QATestsSteps.GivenUserClicksThePrivacyStatement() (0.5s)
+Thread#0:B:Then User is redirected to new "Privacy Statement | WorkMarket" tab
+Thread#0:T:done: QATestsSteps.ThenUserIsRedirectedToNewTab("Privacy Statement...") (4.0s)
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: at the end of normal test queue
+Thread#0:Scheduler: enumerator for thread is at end
+Thread#0:Scheduler: No more tests for thread
+Thread#0: Test #9/0 is finished on thread #0 as Succeeded within 13.2960224 seconds
+Appdomain Disposed
+Thread#-1:Scheduler: get next test for thread -1
+Thread#:Scheduler: at the end of normal test queue
+Thread#-1:Scheduler: enumerator for thread is at end
+2019-02-12T18:50:01.9821975-05:00;Thread#11;Info;test run finished
+2019-02-12T18:50:01.9832093-05:00;Thread#11;Info;publishing test results
+2019-02-12T18:50:02.0282127-05:00;Thread#11;Info;test results published
+2019-02-12T18:50:02.0292124-05:00;Thread#11;Info;generating reports
+2019-02-12T18:50:02.0412188-05:00;Thread#11;Info;creating 1 report(s)
+2019-02-12T18:50:02.0412188-05:00;Thread#11;Info;generate Report ReportTemplate.cshtml
+2019-02-12T18:50:03.9462117-05:00;Thread#11;Info;reports generated
+Total: 1
+Succeeded: 1
+Ignored: 0
+Pending: 0
+Skipped: 0
+Failed: 0
+2019-02-12T18:50:03.9512298-05:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2019-02-12T18:50:03.9522113-05:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\WorkMarket\TestResults\WorkMarket_WorkMarket_2019-02-12T184942.html'
+2019-02-12T18:50:03.9582130-05:00;VSTestExecutionThread;Info;Log file: file:///C:\WorkMarket\TestResults\WorkMarket_WorkMarket_2019-02-12T184942.log

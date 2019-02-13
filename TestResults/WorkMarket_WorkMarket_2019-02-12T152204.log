@@ -1,0 +1,81 @@
+﻿2019-02-12T15:20:15.6990087-05:00;VSTestExecutionThread;Info;SpecFlow+Runner 1.8.5 execution started
+2019-02-12T15:20:15.7239813-05:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\michael.mittiga\AppData\Local\Temp\5\VisualStudioTestExplorerExtensions\SpecRun.Runner.1.8.5\tools\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-02-12T15:20:15.8279853-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-02-12T15:20:15.8289809-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\WorkMarket\WorkMarket\bin\Debug\WorkMarket.dll
+2019-02-12T15:20:15.8299811-05:00;VSTestExecutionThread;Info;Profile: WorkMarket
+2019-02-12T15:20:20.8899740-05:00;VSTestExecutionThread;Info;starting test run
+2019-02-12T15:20:20.8959738-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2019-02-12T15:20:20.8969439-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\WorkMarket\WorkMarket\bin\Debug\WorkMarket.dll
+2019-02-12T15:20:29.5149930-05:00;VSTestExecutionThread;Info;test run finished
+2019-02-12T15:20:29.5159607-05:00;VSTestExecutionThread;Info;publishing test results
+2019-02-12T15:20:29.5209750-05:00;VSTestExecutionThread;Info;test results published
+2019-02-12T15:20:29.5219753-05:00;VSTestExecutionThread;Info;generating reports
+2019-02-12T15:20:29.5289771-05:00;VSTestExecutionThread;Info;creating 1 report(s)
+2019-02-12T15:20:29.5289771-05:00;VSTestExecutionThread;Info;generate Report ReportTemplate.cshtml
+2019-02-12T15:20:30.7959675-05:00;VSTestExecutionThread;Info;reports generated
+2019-02-12T15:20:30.8009479-05:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2019-02-12T15:20:30.8019486-05:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\WorkMarket\TestResults\WorkMarket_WorkMarket_2019-02-12T152015.html'
+2019-02-12T15:20:30.8069611-05:00;VSTestExecutionThread;Info;Log file: file:///C:\WorkMarket\TestResults\WorkMarket_WorkMarket_2019-02-12T152015.log
+2019-02-12T15:20:30.8089467-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2019-02-12T15:22:04.8568529-05:00;VSTestExecutionThread;Info;SpecFlow+Runner 1.8.5 execution started
+2019-02-12T15:22:04.8568529-05:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\michael.mittiga\AppData\Local\Temp\5\VisualStudioTestExplorerExtensions\SpecRun.Runner.1.8.5\tools\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-02-12T15:22:04.8698539-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-02-12T15:22:04.8698539-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\WorkMarket\WorkMarket\bin\Debug\WorkMarket.dll
+2019-02-12T15:22:04.8708093-05:00;VSTestExecutionThread;Info;Profile: WorkMarket
+2019-02-12T15:22:12.8788971-05:00;Thread#13;Info;starting test run
+2019-02-12T15:22:12.8798636-05:00;Thread#13;Info;Discovering target: Default
+2019-02-12T15:22:12.8798636-05:00;Thread#13;Info;Discovering tests from assembly: C:\WorkMarket\WorkMarket\bin\Debug\WorkMarket.dll
+Appdomain Disposed
+Test Suite Dump
+#0: WorkMarket/WorkMarket - 
+#1: Default - 
+#2: WorkMarket - 
+#3: RegQATests - 
+#8: RegTst_05 User is able to review the Terms of Use Agreement - TestAssembly:WorkMarket/Feature:RegQATests/Scenario:RegTst_05+User+is+able+to+review+the+Terms+of+Use+Agreement
+End: Test Suite Dump
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: testitem #8 from normal test queue 
+Thread#0:Scheduler: considering testitem #8 for thread 0
+Thread#0:TestItem#8:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#8:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#8:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #8 for thread 0
+Thread#0:Scheduler: Test #8 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread #0: creating new test thread executor for WorkMarket, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+Thread#0: Test #8/0 is started on thread #0
+Thread#0:T:-> Using app.config
+Thread#0:B:Given User is on registration page
+Thread#0:T:done: QATestsSteps.GivenUserIsOnRegistrationPage() (4.7s)
+Thread#0:B:And User clicks the Terms of Use Agreement
+Thread#0:T:error: element not interactable
+Thread#0:T:  (Session info: chrome=71.0.3578.98)
+Thread#0:T:  (Driver info: chromedriver=2.45.615291 (ec3682e3c9061c10f26ea9e5cdcf3c53f3f74387),platform=Windows NT 10.0.14393 x86_64)
+Thread#0:B:Then User is redirected to "Privacy Statement | WorkMarket" page
+Thread#0:T:skipped because of previous errors
+Thread#0:TestItem#8:Scheduler: reschedule tests for testitem #8
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: at the end of normal test queue
+Thread#0:Scheduler: enumerator for thread is at end
+Thread#0:Scheduler: No more tests for thread
+Thread#0: Test #8/0 is finished on thread #0 as Failed within 9.0300043 seconds
+Appdomain Disposed
+Thread#-1:Scheduler: get next test for thread -1
+Thread#:Scheduler: at the end of normal test queue
+Thread#-1:Scheduler: enumerator for thread is at end
+2019-02-12T15:22:21.9848779-05:00;Thread#13;Info;test run finished
+2019-02-12T15:22:21.9848779-05:00;Thread#13;Info;publishing test results
+2019-02-12T15:22:21.9858296-05:00;Thread#13;Info;test results published
+2019-02-12T15:22:21.9858296-05:00;Thread#13;Info;generating reports
+2019-02-12T15:22:21.9868787-05:00;Thread#13;Info;creating 1 report(s)
+2019-02-12T15:22:21.9868787-05:00;Thread#13;Info;generate Report ReportTemplate.cshtml
+2019-02-12T15:22:22.9758838-05:00;Thread#13;Info;reports generated
+Total: 1
+Succeeded: 0
+Ignored: 0
+Pending: 0
+Skipped: 0
+Failed: 1
+2019-02-12T15:22:22.9778808-05:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2019-02-12T15:22:22.9778808-05:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\WorkMarket\TestResults\WorkMarket_WorkMarket_2019-02-12T152204.html'
+2019-02-12T15:22:22.9828438-05:00;VSTestExecutionThread;Info;Log file: file:///C:\WorkMarket\TestResults\WorkMarket_WorkMarket_2019-02-12T152204.log

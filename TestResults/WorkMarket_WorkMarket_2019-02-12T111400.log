@@ -1,0 +1,100 @@
+﻿2019-02-12T10:52:31.5700047-05:00;VSTestExecutionThread;Info;SpecFlow+Runner 1.8.5 execution started
+2019-02-12T10:52:31.6110133-05:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\michael.mittiga\AppData\Local\Temp\5\VisualStudioTestExplorerExtensions\SpecRun.Runner.1.8.5\tools\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-02-12T10:52:31.7160279-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-02-12T10:52:31.7180065-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\WorkMarket\WorkMarket\bin\Debug\WorkMarket.dll
+2019-02-12T10:52:31.7180065-05:00;VSTestExecutionThread;Info;Profile: WorkMarket
+2019-02-12T10:52:43.7859782-05:00;VSTestExecutionThread;Info;starting test run
+2019-02-12T10:52:43.7919797-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2019-02-12T10:52:43.7929511-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\WorkMarket\WorkMarket\bin\Debug\WorkMarket.dll
+2019-02-12T10:52:54.5419448-05:00;VSTestExecutionThread;Info;test run finished
+2019-02-12T10:52:54.5429441-05:00;VSTestExecutionThread;Info;publishing test results
+2019-02-12T10:52:54.5479443-05:00;VSTestExecutionThread;Info;test results published
+2019-02-12T10:52:54.5479443-05:00;VSTestExecutionThread;Info;generating reports
+2019-02-12T10:52:54.5549449-05:00;VSTestExecutionThread;Info;creating 1 report(s)
+2019-02-12T10:52:54.5639441-05:00;VSTestExecutionThread;Info;generate Report ReportTemplate.cshtml
+2019-02-12T10:52:55.7989151-05:00;VSTestExecutionThread;Info;reports generated
+2019-02-12T10:52:55.8039447-05:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2019-02-12T10:52:55.8039447-05:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\WorkMarket\TestResults\WorkMarket_WorkMarket_2019-02-12T105231.html'
+2019-02-12T10:52:55.8089447-05:00;VSTestExecutionThread;Info;Log file: file:///C:\WorkMarket\TestResults\WorkMarket_WorkMarket_2019-02-12T105231.log
+2019-02-12T10:52:55.8109459-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2019-02-12T10:56:33.2383392-05:00;VSTestExecutionThread;Info;SpecFlow+Runner 1.8.5 execution started
+2019-02-12T10:56:33.2393420-05:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\michael.mittiga\AppData\Local\Temp\5\VisualStudioTestExplorerExtensions\SpecRun.Runner.1.8.5\tools\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-02-12T10:56:33.2513708-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-02-12T10:56:33.2523414-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\WorkMarket\WorkMarket\bin\Debug\WorkMarket.dll
+2019-02-12T10:56:33.2553407-05:00;VSTestExecutionThread;Info;Profile: WorkMarket
+2019-02-12T10:56:44.2583304-05:00;VSTestExecutionThread;Info;starting test run
+2019-02-12T10:56:44.2593111-05:00;VSTestExecutionThread;Info;Discovering target: Default
+2019-02-12T10:56:44.2593111-05:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\WorkMarket\WorkMarket\bin\Debug\WorkMarket.dll
+2019-02-12T10:56:57.4712828-05:00;VSTestExecutionThread;Info;test run finished
+2019-02-12T10:56:57.4712828-05:00;VSTestExecutionThread;Info;publishing test results
+2019-02-12T10:56:57.4722836-05:00;VSTestExecutionThread;Info;test results published
+2019-02-12T10:56:57.4722836-05:00;VSTestExecutionThread;Info;generating reports
+2019-02-12T10:56:57.4732857-05:00;VSTestExecutionThread;Info;creating 1 report(s)
+2019-02-12T10:56:57.4732857-05:00;VSTestExecutionThread;Info;generate Report ReportTemplate.cshtml
+2019-02-12T10:56:58.4272856-05:00;VSTestExecutionThread;Info;reports generated
+2019-02-12T10:56:58.4292770-05:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2019-02-12T10:56:58.4302799-05:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\WorkMarket\TestResults\WorkMarket_WorkMarket_2019-02-12T105633.html'
+2019-02-12T10:56:58.4342774-05:00;VSTestExecutionThread;Info;Log file: file:///C:\WorkMarket\TestResults\WorkMarket_WorkMarket_2019-02-12T105633.log
+2019-02-12T10:56:58.4362775-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2019-02-12T11:14:00.0071824-05:00;VSTestExecutionThread;Info;SpecFlow+Runner 1.8.5 execution started
+2019-02-12T11:14:00.0071824-05:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\michael.mittiga\AppData\Local\Temp\5\VisualStudioTestExplorerExtensions\SpecRun.Runner.1.8.5\tools\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-02-12T11:14:00.0171842-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-02-12T11:14:00.0181851-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\WorkMarket\WorkMarket\bin\Debug\WorkMarket.dll
+2019-02-12T11:14:00.0181851-05:00;VSTestExecutionThread;Info;Profile: WorkMarket
+2019-02-12T11:14:08.0241631-05:00;Thread#20;Info;starting test run
+2019-02-12T11:14:08.0261627-05:00;Thread#20;Info;Discovering target: Default
+2019-02-12T11:14:08.0271654-05:00;Thread#20;Info;Discovering tests from assembly: C:\WorkMarket\WorkMarket\bin\Debug\WorkMarket.dll
+Appdomain Disposed
+Test Suite Dump
+#0: WorkMarket/WorkMarket - 
+#1: Default - 
+#2: WorkMarket - 
+#3: RegQATests - 
+#4: RegTst_01 A user is able to joing as an individual - TestAssembly:WorkMarket/Feature:RegQATests/Scenario:RegTst_01+A+user+is+able+to+joing+as+an+individual
+End: Test Suite Dump
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: testitem #4 from normal test queue 
+Thread#0:Scheduler: considering testitem #4 for thread 0
+Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #4 for thread 0
+Thread#0:Scheduler: Test #4 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread #0: creating new test thread executor for WorkMarket, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+Thread#0: Test #4/0 is started on thread #0
+Thread#0:T:-> Using app.config
+Thread#0:B:Given User is on registration page
+Thread#0:T:done: QATestsSteps.GivenUserIsOnRegistrationPage() (4.2s)
+Thread#0:B:And User registers as an individual account "Michael" "Mittiga" "mmittiga18@gmail.com" "Passw0rd123"
+Thread#0:T:done: QATestsSteps.GivenUserRegistersAsAnIndividualAccount("Michael", "Mittiga", "mmittiga18@gmail.com", "Passw0rd123") (1.9s)
+Thread#0:B:Then User is redirected to "Work Market | Thank you" page
+Thread#0:T:error: Expected string to be equivalent to 
+Thread#0:T:"Work Market | Thank you" with a length of 23, but 
+Thread#0:T:"Work Market" has a length of 11.
+Thread#0:TestItem#4:Scheduler: reschedule tests for testitem #4
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: at the end of normal test queue
+Thread#0:Scheduler: enumerator for thread is at end
+Thread#0:Scheduler: No more tests for thread
+Thread#0: Test #4/0 is finished on thread #0 as Failed within 13.5159808 seconds
+Appdomain Disposed
+Thread#-1:Scheduler: get next test for thread -1
+Thread#:Scheduler: at the end of normal test queue
+Thread#-1:Scheduler: enumerator for thread is at end
+2019-02-12T11:14:21.6311449-05:00;Thread#20;Info;test run finished
+2019-02-12T11:14:21.6311449-05:00;Thread#20;Info;publishing test results
+2019-02-12T11:14:21.6321458-05:00;Thread#20;Info;test results published
+2019-02-12T11:14:21.6321458-05:00;Thread#20;Info;generating reports
+2019-02-12T11:14:21.6331364-05:00;Thread#20;Info;creating 1 report(s)
+2019-02-12T11:14:21.6331364-05:00;Thread#20;Info;generate Report ReportTemplate.cshtml
+2019-02-12T11:14:22.6501686-05:00;Thread#20;Info;reports generated
+Total: 1
+Succeeded: 0
+Ignored: 0
+Pending: 0
+Skipped: 0
+Failed: 1
+2019-02-12T11:14:22.6531499-05:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2019-02-12T11:14:22.6531499-05:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\WorkMarket\TestResults\WorkMarket_WorkMarket_2019-02-12T111400.html'
+2019-02-12T11:14:22.6581088-05:00;VSTestExecutionThread;Info;Log file: file:///C:\WorkMarket\TestResults\WorkMarket_WorkMarket_2019-02-12T111400.log
